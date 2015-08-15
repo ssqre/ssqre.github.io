@@ -16,6 +16,6 @@ tagline: We live, We learn
 ## CONTACT
 
 <ul>
-    <li><a href="mailto:calinyara@gmail.com">Email: calinyara@gmail.com</a></li>
+    <li><a href="mailto:mr.dengjie@gmail.com">Email: mr.dengjie@gmail.com</a></li>
 </ul>
 
