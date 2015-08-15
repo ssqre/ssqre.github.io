@@ -32,7 +32,7 @@ Get `daeapp` for free: [Link](https://github.com/ssqre/daeapp)
 + `libdaelib.dll.a`: LIB used to link DAE APPs 
 + `daeapp source codes`: A demo show you how to develop DAE APPs
 
-Price $199.99
+**Price $199.99**. Product will be sent to your email Once you pay. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
@@ -43,3 +43,5 @@ Price $199.99
   <input type="image" src="https://www.paypalobjects.com/en_US/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## Digital Audio Effects APIs for Linux
