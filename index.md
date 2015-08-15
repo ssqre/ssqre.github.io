@@ -14,6 +14,7 @@ tagline: We live, We learn
 </ul>
 
 ## CONTACT
+
 <ul>
     <li><a href="mailto:calinyara@gmail.com">Email: calinyara@gmail.com</a></li>
 </ul>
