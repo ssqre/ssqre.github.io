@@ -18,7 +18,7 @@ DAE v1.0 supports following effects:
 + **flanger**: 	flanger effect
 + **fade**:    	fade in, fade out, fade across effect
 
-## daeapp
+## DAEAPP
 
 + `daeapp.exe`: daeapp for Windows.
 + `daeapp`: daeapp for Linux.
@@ -26,17 +26,17 @@ DAE v1.0 supports following effects:
 
 Get `daeapp` for free: [Link](https://github.com/ssqre/daeapp)
 
-## Digital Audio Effects APIs for Windows(MinGW)
+## DAE APIs for Windows(MinGW)
 
-+ `dae DLLs`: DLLs used to run DAE APPs
++ `Windows DAE dynamic LIBs`: DLLs used to run DAE APPs
 + `libdaelib.dll.a`: LIB used to link DAE APPs 
-+ `daeapp source codes`: A demo show you how to develop DAE APPs
++ `daeapp source codes based on cmake`: A demo show you how to develop DAE APPs
 
-**Price $199.99**. Product will be sent to your email Once you pay. 
+**Price $499.99**. Product will be sent to your email Once you pay.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
-  <input type="hidden" name="hosted_button_id" value="K4HQYRTD7L3KY">
+  <input type="hidden" name="hosted_button_id" value="DTVSPDZSU5W7L">
   <table>
     <tr><td><input type="hidden" name="on0" value="Email to receive product">Email to receive product</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
   </table>
@@ -44,4 +44,35 @@ Get `daeapp` for free: [Link](https://github.com/ssqre/daeapp)
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Digital Audio Effects APIs for Linux
+## DAE APIs for Linux
+
++ `Linux DAE dynamic LIBs`: LIBs used to develop and run DAE APPs
++ `daeapp source codes based on cmake`: A demo show you how to develop DAE APPs
+
+**Price $399.99**. Product will be sent to your email Once you pay.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="537JDMD4TH86W">
+  <table>
+    <tr><td><input type="hidden" name="on0" value="Email to receive product">Email to receive product</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+  </table>
+  <input type="image" src="https://www.paypalobjects.com/en_US/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+## DAE Source Code
+
++ `Full cmake project of DAE` 
+
+**Price $9999.99**. Product will be sent to your email Once you pay.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="GH79EXB53A768">
+  <table>
+    <tr><td><input type="hidden" name="on0" value="Email to receive product">Email to receive product</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+  </table>
+  <input type="image" src="https://www.paypalobjects.com/en_US/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
