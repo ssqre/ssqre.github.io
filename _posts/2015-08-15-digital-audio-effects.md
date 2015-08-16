@@ -22,7 +22,7 @@ DAE v1.0 supports following effects:
 
 + `daeapp.exe`: daeapp for Windows.
 + `daeapp`: daeapp for Linux.
-+ [Digital Audio Effects Using daeapp](http://www.amazon.com/gp/product/B013O2BCR0?*Version*=1&*entries*=0)
++ [Digital Audio Effects Using daeapp](http://www.amazon.com/gp/product/B013O2BCR0)
 
 Get `daeapp` for free: [Link](https://github.com/ssqre/daeapp)
 
